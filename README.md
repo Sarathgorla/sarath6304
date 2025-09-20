@@ -11,7 +11,7 @@
 
 ### 🎓 About Me
 
-I recently graduated with a B.Tech in Computer Science and Engineering from **Kalasalingam Academy of Research and Education** (2021–2025) with a CGPA of 7.54.  
+Graduated with a B.Tech in Computer Science and Engineering from **Kalasalingam Academy of Research and Education**  with a CGPA of 7.54.  
 I am passionate about technology and constantly exploring new areas in software development and problem-solving.
 
 ---
